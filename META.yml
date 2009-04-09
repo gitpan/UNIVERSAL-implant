@@ -1,0 +1,10 @@
+--- 
+abstract: UNIVERSAL Class::Implant
+author: 
+  - shelling <shelling@cpan.org>
+generated_by: Dist::Zilla::Plugin::MetaYaml version 1.004
+license: mit
+name: UNIVERSAL-implant
+requires: 
+  Class::Implant: 0
+version: 0.01_01
